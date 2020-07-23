@@ -1,0 +1,423 @@
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 4333333
+ Seed: zTgAHuEoU0ffpdfvbcRo
+ History Seed: PCCTGE1kmnf6p6hqpR54
+ Name Seed: 1HiXtsJr1C5eGlBXHpZM
+ Creature Seed: EpUK82caigW54P6IeLHE
+** Starting New Outpost **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+** Loading Fortress **
+The woodcutter's right ear takes the full force of the impact, but it is deflected by the woodcutter's (chicken leather cloak)!
+The woodcutter's upper body takes the full force of the impact, but it is deflected by the woodcutter's (chicken leather cloak)!
+The woodcutter stands up.
+The woodcutter is no longer stunned.
+There is nothing to catch in the northwestern swamps.
+The weather has cleared.
+It has started raining.
+Deg‰l Becorducim has become a Carpenter.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Vucar Bardumkel has become a Recruit.
+Kib Rifotavuz has become a Recruit.
+Tun Oliliden has become a expedition leader.
+Deg‰l Becorducim has become a Recruit.
+B‰mbul Alisurvad has become a Recruit.
+Rovod ƒbirrig•th has become a Recruit.
+Domas Fathrith has become a militia commander.
+The militia commander attacks the kakapo but He jumps away!
+The recruit misses the kakapo!
+The militia commander attacks the kakapo but He jumps away!
+The militia commander charges at the recruit!
+The militia commander collides with the recruit!
+The recruit is knocked over!
+The recruit stands up.
+The militia commander hacks the kakapo in the left wing with his (copper battle axe), tearing apart the muscle!
+An artery has been opened by the attack and many nerves have been severed!
+Vucar Bardumkel, Recruit: I have a part in this.  This might require an answer.
+The militia commander charges at the kakapo!
+The militia commander collides with the kakapo!
+The kakapo is knocked over and tumbles backward!
+The militia commander hacks the kakapo in the left lower leg with his (copper battle axe), tearing apart the fat!
+The militia commander hacks the kakapo in the left lower leg with his (copper battle axe), tearing apart the skin!
+The (copper battle axe) has lodged firmly in the wound!
+The recruit is no longer stunned.
+The militia commander pulls on the embedded (copper battle axe).
+The militia commander gains possession of the (copper battle axe).
+The militia commander hacks the kakapo in the left lower leg with his (copper battle axe), tearing apart the fat!
+The recruit grabs the kakapo by the left wing with her left lower arm!
+The recruit releases the grip of The recruit's left lower arm on the kakapo's left wing.
+The militia commander hacks the kakapo in the head with his (copper battle axe) and the severed part sails off in an arc!
+The kakapo has been knocked unconscious!
+Vucar Bardumkel has become a Fisherdwarf.
+Kib Rifotavuz has become a Woodcutter.
+Tun Oliliden has become a expedition leader.
+Deg‰l Becorducim has become a Carpenter.
+B‰mbul Alisurvad has become a Jeweler.
+Rovod ƒbirrig•th has become a Stoneworker.
+Domas Fathrith has become a militia commander.
+The militia commander stands up.
+The fisherdwarf stands up.
+The weather has cleared.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+It has started raining.
+Kib Rifotavuz, Woodcutter cancels Plant Seeds: Needs plump helmet spawn.
+x2
+Kib Rifotavuz, Woodcutter cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Kib Rifotavuz has become a Planter.
+Kib Rifotavuz, Planter cancels Plant Seeds: Needs plump helmet spawn.
+The weather has cleared.
+It is now summer.
+It has started raining.
+There is nothing to catch in the eastern swamps.
+The weather has cleared.
+It has started raining.
+The Stoneworker Rovod ƒbirrig•th and the Jeweler B‰mbul Alisurvad have married.  Congratulations!
+Vucar Bardumkel has become a Recruit.
+Kib Rifotavuz has become a Recruit.
+Tun Oliliden has become a expedition leader.
+Deg‰l Becorducim has become a Recruit.
+B‰mbul Alisurvad has become a Recruit.
+Rovod ƒbirrig•th has become a Recruit.
+Domas Fathrith has become a militia commander.
+The recruit attacks the turkey hen but She jumps away!
+The recruit punches the turkey hen in the right foot with her left hand, bruising the skin!
+The recruit attacks the turkey hen but She jumps away!
+The recruit punches the turkey hen in the left lower leg with her right hand, bruising the muscle!
+The recruit jumps out of the turkey hen's flight path!
+The recruit punches the turkey hen in the left foot with her left hand, bruising the fat!
+The recruit punches the turkey hen in the right wing with her right hand, bruising the fat!
+The recruit attacks the turkey hen but She jumps away!
+The recruit punches the turkey hen in the right lower leg with her left hand, bruising the muscle!
+The force twists the right knee, bruising the muscle and the bone and bruising the muscle and the bone!
+A ligament has been bruised and a tendon has been bruised!
+The recruit attacks the turkey hen but She jumps away!
+The recruit bites the turkey hen in the right lower leg, tearing apart the skin!
+The recruit grabs the turkey hen by the second toe, left foot with her left upper arm!
+The turkey hen is unable to break the grip of The recruit's left upper arm on The turkey hen's second toe, left foot!
+The recruit punches the turkey hen in the right foot with her left hand and the injured part explodes into gore!
+An artery has been opened by the attack!
+The force bends the right ankle and the part splits in gore!
+A ligament has been torn and a tendon has been torn!
+The turkey hen bites the recruit in the left foot, bruising the fat through the (cave fish leather shoe)!
+The recruit releases the grip of The recruit's left upper arm on the turkey hen's second toe, left foot.
+The recruit grabs the turkey hen by the second toe, left foot with her left lower arm!
+The turkey hen snatches at the recruit in the right cheek with her first toe, left foot, bruising it through the (pig tail cloak)!
+The force twists the head!
+The recruit releases the grip of The recruit's left lower arm on the turkey hen's second toe, left foot.
+The recruit punches the turkey hen in the right foot with her right hand, bruising the skin!
+The recruit grabs the turkey hen by the second toe, left foot with her left lower arm!
+The recruit releases the grip of The recruit's left lower arm on the turkey hen's second toe, left foot.
+The recruit grabs the turkey hen by the left lower leg with her right hand!
+The turkey hen misses the recruit!
+The recruit punches the turkey hen in the left foot with her right hand, bruising the fat!
+The recruit punches the turkey hen in the lower body with her left hand, bruising the muscle and bruising the left kidney!
+The turkey hen bites the recruit in the left foot, bruising the muscle through the (cave fish leather shoe)!
+The recruit locks the turkey hen's left knee with The recruit's right hand!
+The turkey hen misses the recruit!
+The recruit bends the turkey hen's left lower leg with The recruit's right hand and the left knee collapses!
+A ligament in the left knee has been torn and a tendon has been torn!
+The recruit releases the joint lock of The recruit's right hand on the turkey hen's left lower leg.
+The recruit releases the grip of The recruit's right hand on the turkey hen's left lower leg.
+The recruit punches the turkey hen in the left foot with her right hand and the injured part collapses into a lump of gore!
+An artery has been opened by the attack!
+The force pulls the left ankle, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The turkey hen gives in to pain.
+The recruit grabs the turkey hen by the first toe, left foot with her right hand!
+The recruit releases the grip of The recruit's right hand on the turkey hen's first toe, left foot.
+The recruit grabs the turkey hen by the beak with her left upper arm!
+The recruit releases the grip of The recruit's left upper arm on the turkey hen's beak.
+The recruit grabs the turkey hen by the second toe, right foot with her left lower arm!
+The recruit releases the grip of The recruit's left lower arm on the turkey hen's second toe, right foot.
+The recruit grabs the turkey hen by the right lower leg with her left upper arm!
+The recruit locks the turkey hen's right knee with The recruit's left upper arm!
+The recruit bends the turkey hen's right lower leg with The recruit's left upper arm and the right knee collapses!
+A ligament in the right knee has been torn and a tendon has been torn!
+The recruit releases the joint lock of The recruit's left upper arm on the turkey hen's right lower leg.
+The recruit releases the grip of The recruit's left upper arm on the turkey hen's right lower leg.
+The recruit punches the turkey hen in the head with her left hand and the injured part collapses!
+An artery has been opened by the attack!
+The recruit attacks the turkey hen but She jumps away!
+The expedition leader attacks the turkey gobbler but He jumps away!
+The expedition leader punches the turkey gobbler in the right lower leg with her right hand, bruising the muscle!
+The force bends the right knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The turkey gobbler falls over.
+The expedition leader grabs the turkey gobbler by the throat with her right lower arm!
+The expedition leader punches the turkey gobbler in the lower body with her right hand, bruising the muscle and bruising the guts!
+The turkey gobbler bites the expedition leader in the head, bruising the muscle through the (cave spider silk hood)!
+The expedition leader has been knocked unconscious!
+The turkey gobbler latches on firmly!
+The expedition leader falls over.
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler bites the expedition leader in the head, bruising the muscle through the x(cave spider silk hood)x!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler bites the expedition leader in the head, bruising the muscle through the X(cave spider silk hood)X!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler bites the expedition leader in the head, bruising the muscle through the XX(cave spider silk hood)XX!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler bites the expedition leader in the head, bruising the muscle through the XX(cave spider silk hood)XX!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler bites the expedition leader in the head, bruising the muscle through the XX(cave spider silk hood)XX!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler bites the expedition leader in the head, bruising the muscle through the XX(cave spider silk hood)XX!
+The XX(cave spider silk hood)XX is ripped to shreds!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler bites the expedition leader in the head, denting the skin and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler bites the expedition leader in the head, denting the skin and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler bites the expedition leader in the head, denting the skin and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler bites the expedition leader in the head, denting the skin and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler bites the expedition leader in the head, bruising the muscle through the (pig tail cap)!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler bites the expedition leader in the head, tearing apart the skin and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler bites the expedition leader in the head, bruising the muscle through the x(pig tail cap)x!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler bites the expedition leader in the head, bruising the muscle through the X(pig tail cap)X!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler bites the expedition leader in the head, bruising the muscle through the XX(pig tail cap)XX!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler bites the expedition leader in the head, bruising the muscle through the XX(pig tail cap)XX!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler bites the expedition leader in the head, tearing the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler bites the expedition leader in the head, bruising the muscle through the XX(pig tail cap)XX!
+The XX(pig tail cap)XX is ripped to shreds!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler bites the expedition leader in the head, tearing the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler bites the expedition leader in the head, denting the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler bites the expedition leader in the head, denting the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler bites the expedition leader in the head, denting the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler bites the expedition leader in the head, denting the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler bites the expedition leader in the head, denting the skin and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler bites the expedition leader in the head, denting the skin and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler bites the expedition leader in the head, denting the skin and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler bites the expedition leader in the head, denting the skin and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The recruit grabs the turkey hen by the third toe, right foot with her left upper arm!
+The turkey hen is unable to break the grip of The recruit's left upper arm on The turkey hen's third toe, right foot!
+The expedition leader regains consciousness.
+The expedition leader passes out from exhaustion.
+The turkey gobbler bites the expedition leader in the head, tearing apart the skin and bruising the muscle!
+The turkey gobbler latches on firmly!
+The recruit punches the turkey hen in the right upper leg with her right hand, bruising the muscle!
+The turkey hen bites the recruit in the right foot, bruising the muscle through the (giant bat leather shoe)!
+The recruit releases the grip of The recruit's left upper arm on the turkey hen's third toe, right foot.
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The recruit punches the turkey hen in the upper body with her right hand, bruising the muscle and bruising the gizzard!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler bites the expedition leader in the head, denting the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The recruit punches the turkey hen in the right upper leg with her left hand and the injured part is smashed into the body, an unrecognizable mass!
+An artery has been opened by the attack!
+The force pulls the right hip,  shattering the bone and  shattering the bone!
+A ligament has been bruised and a tendon has been bruised!
+The turkey hen gives in to pain.
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The recruit grabs the turkey hen by the right wing with her right lower arm!
+The recruit collapses and falls to the ground from over-exertion.
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The recruit releases the grip of The recruit's right lower arm on the turkey hen's right wing.
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The recruit grabs the turkey hen by the first toe, left foot with her right upper leg!
+The recruit releases the grip of The recruit's right upper leg on the turkey hen's first toe, left foot.
+The turkey gobbler bites the expedition leader in the head, denting the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The recruit grabs the turkey hen by the third toe, left foot with her left lower leg!
+The recruit releases the grip of The recruit's left lower leg on the turkey hen's third toe, left foot.
+The recruit grabs the turkey hen by the neck with her right lower arm!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The recruit punches the turkey hen in the head with her left hand and the injured part collapses into a lump of gore!
+An artery has been opened by the attack!
+The turkey gobbler bites the expedition leader in the head, denting the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler bites the expedition leader in the head, denting the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler bites the expedition leader in the head, denting the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler bites the expedition leader in the head, tearing the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler bites the expedition leader in the head, denting the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler bites the expedition leader in the head, denting the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler bites the expedition leader in the head, denting the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler bites the expedition leader in the head, tearing the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler bites the expedition leader in the head, denting the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler bites the expedition leader in the head, denting the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The recruit stands up.
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler bites the expedition leader in the head, denting the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler bites the expedition leader in the head, denting the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler bites the expedition leader in the head, denting the fat and bruising the muscle!
+The turkey gobbler latches on firmly!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin!
+The turkey gobbler shakes the expedition leader around by the head, tearing apart the head's skin and bruising the fat!
+The turkey gobbler passes out from exhaustion.
+The recruit grabs the turkey gobbler by the neck with her right lower arm!
+The recruit releases the grip of The recruit's right lower arm on the turkey gobbler's neck.
+The recruit grabs the turkey gobbler by the second toe, right foot with her left hand!
+The recruit releases the grip of The recruit's left hand on the turkey gobbler's second toe, right foot.
+The recruit grabs the turkey gobbler by the throat with her left hand!
+The recruit places a chokehold on the turkey gobbler's throat with The recruit's left hand!
+The recruit strangles the turkey gobbler's throat and the part splits in gore!
+A major artery has been opened by the attack!
+The recruit strangles the turkey gobbler's throat, tearing apart the skin!
+A major artery has been opened by the attack!
+The recruit strangles the turkey gobbler's throat, tearing apart the skin!
+A major artery has been opened by the attack!
+The recruit strangles the turkey gobbler's throat, tearing apart the skin!
+A major artery has been opened by the attack!
+The recruit strangles the turkey gobbler's throat, tearing apart the skin!
+A major artery has been opened by the attack!
+Vucar Bardumkel has become a Fisherdwarf.
+Kib Rifotavuz has become a Planter.
+Tun Oliliden has become a expedition leader.
+Deg‰l Becorducim has become a Carpenter.
+B‰mbul Alisurvad has become a Jeweler.
+Rovod ƒbirrig•th has become a Stoneworker.
+Domas Fathrith has become a militia commander.
+The expedition leader regains consciousness.
+The expedition leader passes out from exhaustion.
+Vucar Bardumkel, Fisherdwarf: Tun Valleypaddles is dead.  I am almost overcome by grief.
+Tun Oliliden, Fish Cleaner has been found dead.
+Vucar Bardumkel, Fisherdwarf: Death...  This is truly horrifying.
+Vucar Bardumkel, Fisherdwarf: Our time in The Windy Realms is so brief...  Begone fear!
+Deg‰l Temptedwork has assumed the position of expedition leader of The Constructs of Dimpling.
