@@ -421,3 +421,240 @@ Tun Oliliden, Fish Cleaner has been found dead.
 Vucar Bardumkel, Fisherdwarf: Death...  This is truly horrifying.
 Vucar Bardumkel, Fisherdwarf: Our time in The Windy Realms is so brief...  Begone fear!
 Degâl Temptedwork has assumed the position of expedition leader of The Constructs of Dimpling.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Degâl Becorducim, expedition leader cancels Make wooden Barrel: Needs logs.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Some migrants have arrived.
+Rovod Urdimdast, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Degâl Becorducim, expedition leader cancels Make wooden Barrel: Needs logs.
+Rovod Ébirrigïth has become a Miner.
+Kib Rifotavuz, Planter cancels Plant Seeds: Needs plump helmet spawn.
+Degâl Becorducim has created a masterpiece larch bed!
+Degâl Becorducim has created a masterpiece larch barrel!
+Kib Rifotavuz, Planter cancels Plant Seeds: Needs plump helmet spawn.
+Rovod Urdimdast, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Bâmbul Alisurvad, Jeweler cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of Craftsdwarf's Workshop.
+Autumn has come.
+Bomrek Zononshen has become a Miner.
+The weather has cleared.
+You have struck amber opal!
+It has started raining.
+Kib Rifotavuz, Planter cancels Plant Seeds: Needs plump helmet spawn.
+There is nothing to catch in the eastern swamps.
+Bâmbul Alisurvad has become a Woodcrafter.
+The weather has cleared.
+Degâl Becorducim has created a masterpiece walnut wood barrel!
+The outpost liaison Cerol Likotimush from Udistäzum has arrived.
+A caravan from Udistäzum has arrived.
+Merchants have arrived and are unloading their goods.
+Some migrants have arrived.
+Kib Rifotavuz, Planter cancels Plant Seeds: Needs plump helmet spawn.
+Råsen Tankol, Milker cancels Plant Seeds: Needs plump helmet spawn.
+x2
+Rovod Ébirrigïth, Miner cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of Craftsdwarf's Workshop.
+Råsen Tankol, Milker cancels Plant Seeds: Needs plump helmet spawn.
+Rovod Urdimdast, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Unib Dorenzedot, Farmer withdraws from society...
+Unib Dorenzedot has claimed a Craftsdwarf's Workshop.
+Råsen Tankol, Milker cancels Plant Seeds: Needs plump helmet spawn.
+x2
+x3
+It has started raining.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Kib Rifotavuz, Planter cancels Plant Seeds: Needs plump helmet spawn.
+x2
+x3
+x4
+x5
+The weather has cleared.
+Kib Rifotavuz, Planter cancels Plant Seeds: Needs plump helmet spawn.
+Rovod Urdimdast, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+The flying ({copper bolt}) strikes the gray langur in the right front leg, tearing the muscle!
+Bâmbul Alisurvad, Woodcrafter cancels Store Item in Stockpile: Interrupted by a gray langur.
+Dod¢k Gostóshrir, Marksdwarf: The battle rages...  I am not scared!
+The fisherdwarf attacks the gray langur but He jumps away!
+Dod¢k Gostóshrir, Marksdwarf: This is my fight too.  This might require an answer.
+The swordsdwarf stabs the gray langur in the left rear foot with his ({silver short sword}) and the severed part sails off in an arc!
+The fisherdwarf attacks the gray langur but He jumps away!
+Edzul Rithmidor, Swordsdwarf: This is my fight too.  This might require an answer.
+The fisherdwarf charges at the swordsdwarf!
+The swordsdwarf jumps away!
+The fisherdwarf punches the gray langur in the head with her right hand, bruising the muscle!
+The gray langur has been knocked unconscious!
+The force pulls the neck, tearing apart the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The gray langur falls over.
+The fisherdwarf grabs the gray langur by the second right finger with her right upper arm!
+The fisherdwarf releases the grip of The fisherdwarf's right upper arm on the gray langur's second right finger.
+The fisherdwarf grabs the gray langur by the left front foot with her left lower arm!
+Edzul Rithmidor, Swordsdwarf: I cannot just stand by.  This might require an answer.
+The fisherdwarf releases the grip of The fisherdwarf's left lower arm on the gray langur's left front foot.
+The fisherdwarf punches the gray langur in the head with her left hand, bruising the muscle and bruising the skull!
+The force bends the neck, tearing apart the fat and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+Vucar Bardumkel, Fisherdwarf: I cannot just stand by.  This might require an answer.
+The fisherdwarf grabs the gray langur by the first right toe with her left hand!
+The hammerdwarf bashes the gray langur in the head with her ({bismuth bronze war hammer}), bruising the muscle, jamming the skull through the brain and tearing the brain!
+Edzul Rithmidor, Swordsdwarf: I cannot just stand by.  This might require an answer.
+Bim Astelsibrek, Hammerdwarf: I have a part in this.  This might require an answer.
+Edzul Rithmidor, Swordsdwarf: I have a part in this.  There is no need to feel vengeful.
+Bim Astelsibrek, Hammerdwarf: This is my fight too.  There is no need to feel vengeful.
+Vucar Bardumkel, Fisherdwarf: I cannot just stand by.  There is no need to feel vengeful.
+The hammerdwarf attacks the gray langur but He jumps away!
+Edzul Rithmidor, Swordsdwarf: I have a part in this.  There is no need to feel vengeful.
+The woodcrafter punches the gray langur in the left front leg with her left hand, bruising the fat!
+The swordsdwarf stabs the gray langur in the lower body with his ({silver short sword}), tearing apart the muscle and tearing apart the spleen!
+Bim Astelsibrek, Hammerdwarf: This is my fight too.  There is no need to feel vengeful.
+The hammerdwarf bashes the gray langur in the lower body with her ({bismuth bronze war hammer}), bruising the muscle and bruising the guts!
+Vucar Bardumkel, Fisherdwarf: I have a part in this.  There is no need to feel vengeful.
+The woodcrafter misses the gray langur!
+The swordsdwarf charges at the gray langur!
+The swordsdwarf collides with the gray langur!
+The gray langur is knocked over and tumbles backward!
+The swordsdwarf slashes the gray langur in the head with his ({silver short sword}) and the severed part sails off in an arc!
+The gray langur has been knocked unconscious!
+The woodcrafter charges at the swordsdwarf!
+The woodcrafter collides with the swordsdwarf!
+The woodcrafter bounces backward!
+Bim Astelsibrek, Hammerdwarf: This is my fight too.  There is no need to feel vengeful.
+Vucar Bardumkel, Fisherdwarf: This is my fight too.  There is no need to feel vengeful.
+Vucar Bardumkel, Fisherdwarf: I have a part in this.  There is no need to feel vengeful.
+The woodcrafter is no longer stunned.
+Domas Fathrith, militia commander cancels Store Item in Stockpile: Interrupted by a gray langur.
+The gray langur attacks the militia commander but He jumps away!
+The militia commander attacks the gray langur but He jumps away!
+The militia commander hacks the gray langur in the lower body with his (copper battle axe), tearing apart the fat!
+The militia commander hacks the gray langur in the upper body with his (copper battle axe), tearing apart the fat!
+The militia commander attacks the gray langur but He jumps away!
+The militia commander hacks the gray langur in the upper body with his (copper battle axe), tearing apart the muscle and tearing apart the liver!
+An artery has been opened by the attack!
+The gray langur collapses and falls to the ground from over-exertion.
+The militia commander hacks the gray langur in the right front foot with his (copper battle axe), tearing apart the muscle!
+An artery has been opened by the attack!
+The militia commander hacks the gray langur in the left front leg with his (copper battle axe), tearing apart the fat!
+The gray langur gives in to pain.
+The militia commander hacks the gray langur in the head with his (copper battle axe), tearing apart the muscle and bruising the skull!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The force bends the neck, tearing apart the fat and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The militia commander hacks the gray langur in the head with his (copper battle axe) and the injured part is cloven asunder!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+Degâl Becorducim, expedition leader cancels Construct Bed: Interrupted by a gray langur.
+Bâmbul Alisurvad, Woodcrafter cancels Store Item in Stockpile: Interrupted by a gray langur.
+The swordsdwarf bites the gray langur in the right rear foot, tearing apart the fat!
+The gray langur misses the swordsdwarf!
+The swordsdwarf charges at the gray langur!
+The swordsdwarf collides with the gray langur!
+The gray langur is knocked over and tumbles backward!
+The gray langur stands up.
+The swordsdwarf stabs the gray langur in the left rear leg with his ({silver short sword}), fracturing the bone!
+An artery has been opened by the attack, a sensory nerve has been severed and a tendon has been torn!
+The gray langur misses the swordsdwarf!
+The swordsdwarf slashes the gray langur in the left front leg with his ({silver short sword}), tearing apart the muscle!
+A motor nerve has been severed!
+The gray langur falls over.
+The gray langur misses the swordsdwarf!
+The swordsdwarf stabs the gray langur in the right rear leg with his ({silver short sword}) and the severed part sails off in an arc!
+The swordsdwarf stabs the gray langur in the lower body with his ({silver short sword}), tearing apart the muscle and spilling her guts!
+An artery has been opened by the attack!
+The gray langur strikes at the swordsdwarf but the shot is blocked!
+The swordsdwarf stabs the gray langur in the right front foot with his ({silver short sword}), tearing apart the muscle!
+A motor nerve has been severed!
+The gray langur strikes at the swordsdwarf but the shot is blocked!
+The swordsdwarf slashes the gray langur in the lower body with his ({silver short sword}), tearing apart the muscle and tearing apart the stomach!
+An artery has been opened by the attack!
+The ({silver short sword}) has lodged firmly in the wound!
+The gray langur has become enraged!
+The gray langur gives in to pain.
+The swordsdwarf pulls on the embedded ({silver short sword}).
+The swordsdwarf gains possession of the ({silver short sword}).
+The swordsdwarf slashes the gray langur in the head with his ({silver short sword}), tearing apart the muscle and fracturing the skull!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The force bends the neck, tearing apart the fat and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+Edzul Rithmidor, Swordsdwarf: I have improved my sword.  That was not satisfying.
+Domas Fathrith, militia commander cancels Pen/Pasture Stray Yak Cow (Tame): Interrupted by a gray langur.
+The flying ({copper bolt}) strikes the gray langur in the lower body, tearing the muscle and tearing the spleen!
+The ({copper bolt}) has lodged firmly in the wound!
+Dod¢k Gostóshrir, Marksdwarf: I have a part in this.  There is no need to feel vengeful.
+The flying ({copper bolt}) strikes the gray langur in the left front leg, tearing the muscle and bruising the bone!
+A tendon has been torn!
+The flying ({copper bolt}) strikes the gray langur in the upper body, tearing the muscle and shattering the right floating ribs!
+A tendon in the right floating ribs has been torn!
+Dod¢k Gostóshrir, Marksdwarf: I have improved my archery.  That was satisfying.
+The merchants from Udistäzum will be leaving soon.
+Bâmbul Alisurvad, Woodcrafter cancels Store Item in Stockpile: Interrupted by a gray langur.
+Rovod Ébirrigïth, Miner cancels Pen/Pasture Stray Yak Cow (Tame): Interrupted by a gray langur.
+The woodcrafter punches the gray langur in the left rear foot with her left hand and the injured part collapses!
+An artery has been opened by the attack!
+The force pulls the left rear leg, tearing apart the skin!
+The gray langur falls over.
+The woodcrafter grabs the gray langur by the neck with her left lower arm!
+The gray langur bites the woodcrafter in the right upper leg, bruising the fat through the x(pig tail cloak)x!
+The woodcrafter punches the gray langur in the right front foot with her right hand, bruising the fat!
+The woodcrafter releases the grip of The woodcrafter's left lower arm on the gray langur's neck.
+The woodcrafter grabs the gray langur by the right eye tooth with her left upper arm!
+The gray langur bites the woodcrafter in the lower body, bruising the muscle through the X(pig tail cloak)X!
+The woodcrafter releases the grip of The woodcrafter's left upper arm on the gray langur's right eye tooth.
+The woodcrafter punches the gray langur in the left rear leg with her right hand, bruising the muscle!
+The woodcrafter grabs the gray langur by the third left toe with her left hand!
+The gray langur bites the woodcrafter in the right upper arm, bruising the fat through the X(pig tail cloak)X!
+The woodcrafter releases the grip of The woodcrafter's left hand on the gray langur's third left toe.
+The woodcrafter grabs the gray langur by the tail with her left hand!
+The woodcrafter releases the grip of The woodcrafter's left hand on the gray langur's tail.
+The gray langur misses the woodcrafter!
+The woodcrafter grabs the gray langur by the first right finger with her left lower arm!
+The woodcrafter releases the grip of The woodcrafter's left lower arm on the gray langur's first right finger.
+The woodcrafter grabs the gray langur by the second left toe with her left lower arm!
+The woodcrafter releases the grip of The woodcrafter's left lower arm on the gray langur's second left toe.
+The miner strikes the gray langur in the lower body with his (copper pick), tearing apart the muscle and spilling her guts!
+An artery has been opened by the attack!
+The woodcrafter grabs the gray langur by the neck with her right upper arm!
+The gray langur bites the woodcrafter in the right upper arm, bruising the skin through the XX(pig tail cloak)XX!
+The woodcrafter releases the grip of The woodcrafter's right upper arm on the gray langur's neck.
+The woodcrafter grabs the gray langur by the first right finger with her right hand!
+The gray langur bites the woodcrafter in the fifth toe, left foot, shattering the nail and bruising the skin through the x(giant cave spider silk shoe)x!
+The XX(pig tail cloak)XX is ripped to shreds!
+The force twists the left foot, bruising the skin!
+The woodcrafter releases the grip of The woodcrafter's right hand on the gray langur's first right finger.
+The miner punches the gray langur in the lower body with his left hand, bruising the muscle and bruising the stomach!
+The woodcrafter grabs the gray langur by the first right toe with her left upper arm!
+The woodcrafter releases the grip of The woodcrafter's left upper arm on the gray langur's first right toe.
+The woodcrafter punches the gray langur in the upper body with her right hand, bruising the muscle and bruising the liver!
+The miner strikes the gray langur in the left rear leg with his (copper pick), tearing apart the muscle!
+The gray langur gives in to pain.
+Bâmbul Alisurvad, Woodcrafter: Our time in The Windy Realms is so brief...  This does not scare me.
+The woodcrafter grabs the gray langur by the right rear leg with her left hand!
+The woodcrafter releases the grip of The woodcrafter's left hand on the gray langur's right rear leg.
+The miner strikes the gray langur in the head with his (copper pick) and the severed part sails off in an arc!
+Bâmbul Alisurvad, Woodcrafter: I have improved my fighting.  That was not satisfying.
+The swordsdwarf slashes the gray langur in the left front foot with his ({silver short sword}) and the severed part sails off in an arc!
+The swordsdwarf slashes the gray langur in the lower body with his ({silver short sword}), tearing apart the muscle and spilling her guts!
+An artery has been opened by the attack!
+The swordsdwarf stabs the gray langur in the right rear foot with his ({silver short sword}) and the severed part sails off in an arc!
+The swordsdwarf slaps the gray langur in the nose with the flat of his ({silver short sword}), bruising the skin!
+The force bends the head, tearing apart the fat and bruising the muscle!
+A tendon in the skull has been torn!
+The swordsdwarf stabs the gray langur in the left rear foot with his ({silver short sword}), tearing apart the muscle!
+An artery has been opened by the attack and many nerves have been severed!
+An animal has grown to become a Stray Yak Cow.
+It has started raining.
+The merchants from Udistäzum have embarked on their journey.
+Råsen Tankol, Milker cancels Plant Seeds: Needs plump helmet spawn.
+x2
+Degâl Becorducim has created a masterpiece pear wood barrel!
+Rovod Urdimdast, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Degâl Becorducim has created a masterpiece persimmon wood barrel!
+Kib Rifotavuz, Planter cancels Plant Seeds: Needs plump helmet spawn.
+Råsen Tankol has become a Farmer.
+The weather has cleared.
+Unib Dorenzedot, Farmer cancels Strange Mood: Went insane.
+Unib Dorenzedot, Farmer is stricken by melancholy!

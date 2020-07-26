@@ -25,8 +25,8 @@ This lets you set the starting windowed/fullscreen setting.  Can be YES, NO or P
 This is the size and font for windowed mode.  Changing to the 800x600 font might make you happier.
 If set below 256x256 it specifies the grid size instead, with a minimum of 80x25.
 
-[WINDOWEDX:1600]
-[WINDOWEDY:1000]
+[WINDOWEDX:1200]
+[WINDOWEDY:800]
 [FONT:K24i6R9.bmp]
 
 You may disable window resizing if you wish.
